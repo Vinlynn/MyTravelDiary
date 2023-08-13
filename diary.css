@@ -1,0 +1,76 @@
+*{
+    margin: 0
+    padding: 0
+    box-sizing: border box;
+}
+
+header h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkolivegreen;
+    text-align: center;
+    font: bolder;
+    padding: 10px;
+    margin: 10px ;
+}
+header h2 p {
+    text-align: center;
+    color: darkblue;
+
+}
+header nav {
+     text-align: center;
+     padding: 20px;
+     margin: 0  
+   
+}
+header img {
+    text-align: center;
+    max-width: 880px;
+    max-height: 1000px;
+}
+
+header {
+    background-color: azure;
+    padding: 10px;
+    margin: 10px;
+
+}
+article img {
+    width: 500px;
+    max-height: 500px;
+    object-fit: cover;
+}
+
+section {
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+main {
+    background-color: antiquewhite;
+
+
+}
+.botanical li{
+    color:mediumblue
+}
+
+.rice li{
+    color: mediumblue;
+}
+
+.strawberry li{
+    color: mediumblue;
+
+}
+
+.sun li{
+    color: mediumblue;
+}
+
+footer{
+    background-color:beige;
+    text-align: center;
+}
